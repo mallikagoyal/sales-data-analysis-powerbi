@@ -60,7 +60,7 @@ This project demonstrates building interactive dashboards and extracting busines
 
 ## 📸 Dashboard Screenshots
 
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview]("C:\Users\Lenovo\Downloads\sales analysis project files\screenshots\sales_overview.png.png")
 ![Profit Analysis](screenshots/profit_analysis.png)
 ![Time Series](screenshots/Time_series_analysis.png)
 ![Customer Analysis](screenshots/customer_analysis.png)
