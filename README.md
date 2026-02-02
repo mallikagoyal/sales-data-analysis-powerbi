@@ -55,7 +55,14 @@ This project focuses on analyzing sales performance across different regions, ca
 - Sales increased after 2015  
 
 ## 🔹 Conclusion
-This project demonstrates building interactive dashboards and extracting business insights using Power BI.
+This project demonstrates building interactive dashboards and extracting business insights using Power BI
+
+## 📸 Dashboard Screenshots
+
+![Sales Overview](Screenshots/sales_overview.png)
+![Profit Analysis](Screenshots/profit_analysis.png)
+![Customer Analysis](Screenshots/customer_analysis.png)
+
 
 
 
