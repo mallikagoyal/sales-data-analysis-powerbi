@@ -58,13 +58,7 @@ This project focuses on analyzing sales performance across different regions, ca
 This project demonstrates building interactive dashboards and extracting business insights using Power BI.
 
 
-## 📸 Dashboard Screenshots
 
-![Sales Overview](C:\Users\Lenovo\Downloads\sales analysis project files\screenshots)
-![Profit Analysis](screenshots/profit_analysis.png)
-![Time Series](screenshots/Time_series_analysis.png)
-![Customer Analysis](screenshots/customer_analysis.png)
-![Detailed_Customer Analysis](screenshots/detailed_cust_analysis.png)
 
 
 
